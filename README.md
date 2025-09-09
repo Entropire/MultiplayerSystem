@@ -1,7 +1,6 @@
 # Multiplayer System
 
 ## Introduction
-
 This project focuses on researching and implementing a multiplayer system for games using C++ and the Unity engine. 
 The system is designed with a modular and extensible architecture, ensuring that while it integrates with Unity, it remains loosely coupled. 
 This approach allows the multiplayer system to be reused or adapted for other projects and platforms beyond Unity.
@@ -9,6 +8,9 @@ This approach allows the multiplayer system to be reused or adapted for other pr
 ## Technology Stack
 - C++
 - Unity Engine (2022.3.52f1)
+- Visual Studio 2022
+- Git for version control
+- Network Architecture: listed client-server model
 
 ## Learning Goals
 - I understand different network architectures and can apply them in my projects.
@@ -20,3 +22,6 @@ This approach allows the multiplayer system to be reused or adapted for other pr
 
 ## Research
 Here are my research notes on multiplayer systems and the sources I used:
+
+- [Multiplayer Network Architectures](./Docs/MultiplayerNetworkArchitectures.md)
+
