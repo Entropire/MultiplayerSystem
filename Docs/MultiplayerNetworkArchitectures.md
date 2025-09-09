@@ -10,7 +10,7 @@ In this document, I have compiled my research on various networking architecture
 - [Hybrid Model](#hybrid-model)
 
 ## Client-Server Model
-<img src="../Assets/Client-Server-Model.png" alt="Client-Server Model" width="300" height="auto"/>
+<img src="Images/Client-Server-Model.png" alt="Client-Server Model" width="300" height="auto"/>
 
 The client-server model is a network architecture where there is one dedicated central server that manages the game state where multiple clients connect to.
 
@@ -27,7 +27,7 @@ The client-server model is a network architecture where there is one dedicated c
 - **Complexity:** Setting up and maintaining a dedicated server can be complex and requires technical expertise.
 
 ## Listed Client-Server Model
-<img src="../Assets/Listed-Client-Server-Model.png" alt="Listed Client-Server Model" width="300" height="auto"/>
+<img src="Images/Listed-Client-Server-Model.png" alt="Listed Client-Server Model" width="300" height="auto"/>
 
 The Listed Client-Server model is a variation of the client-server model where instead of a dedicated server there is a client(the host) that also runs the server.
 
@@ -44,7 +44,7 @@ The Listed Client-Server model is a variation of the client-server model where i
 - **Less scalable:** The host may not be able to handle many clients, making it less suitable for large-scale multiplayer games.
 
 ## Peer-to-Peer Model
-<img src="../Assets/Peer-To-Peer.png" alt="Peer To Peer Model" width="300" height="auto"/>
+<img src="Images/Peer-To-Peer.png" alt="Peer To Peer Model" width="300" height="auto"/>
 
 The peer-to-peer (P2P) model is a network architecture without a dedicated server where all clients (peers) connect directly to each other and acts both as a client and server.
 
@@ -61,7 +61,7 @@ The peer-to-peer (P2P) model is a network architecture without a dedicated serve
 - **Bandwidth Usage:** Each peer must handle multiple connections, which can lead to increased bandwidth usage and potential performance issues.
 
 ### Hybrid Model
-<img src="../Assets/Hybrid-Model.png" alt="Hybrid Model" width="300" height="auto"/>
+<img src="Images/Hybrid-Model.png" alt="Hybrid Model" width="300" height="auto"/>
 
 The hybrid model combines the elements of both client-server and peer-to-peer architectures. 
 In this model a central server manages the overall game state while allowing direct peer-to-peer communication for certain tasks.
