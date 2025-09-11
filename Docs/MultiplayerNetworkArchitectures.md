@@ -102,7 +102,7 @@ In this architecture you would have a central server handling critical game logi
 | Hybrid                  | Improved Performance, Scalability, Security                              | Complexity, Cost                                                      |
 
 
-Conclusion
+## Conclusion
 
 After researching and comparing the different network architectures, I have decided to use the Listen Client-Server model for my multiplayer system.
 This decision aligns with my project goals because I do not have the budget or access to a dedicated server. For a small-scale multiplayer game, the Listen Client-Server architecture provides a suitable balance of ease of setup, cost-effectiveness, and control over the game state.
