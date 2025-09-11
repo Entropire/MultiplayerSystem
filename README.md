@@ -2,8 +2,7 @@
 
 ## Introduction
 This project focuses on researching and implementing a multiplayer system for games using C++ and the Unity engine. 
-The system is designed with a modular and extensible architecture, ensuring that while it integrates with Unity, it remains loosely coupled. 
-This approach allows the multiplayer system to be reused or adapted for other projects and platforms beyond Unity.
+I will be testing the working of the multiplayer system by making a simple multiplayer game where players can create and join game sessions where they can interact with each other.
 
 ## Technology Stack
 - C++
