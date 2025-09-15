@@ -1,4 +1,10 @@
-# Multiplayer System
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h1>Simple-Factions</h1>
+    </summary>
+  </ul>
+</div>
 
 ---
 
