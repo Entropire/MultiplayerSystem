@@ -1,8 +1,13 @@
 # Multiplayer System
 
+---
+
 ## Introduction
 This project focuses on researching and implementing a multiplayer system for games using C++ and the Unity engine. 
 I will be testing the working of the multiplayer system by making a simple multiplayer game where players can create and join game sessions where they can interact with each other.
+
+## Project Progress / Task Board
+Follow the ongoing tasks and milestones here: [Trello Board](https://trello.com/b/Z2MWQTrl/multiplayer-system)
 
 ## Technology Stack
 - C++
