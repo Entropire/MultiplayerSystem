@@ -1,7 +1,7 @@
 <div id="toc">
   <ul style="list-style: none">
     <summary>
-      <h1>Simple-Factions</h1>
+      <h1>Multiplayer System</h1>
     </summary>
   </ul>
 </div>
