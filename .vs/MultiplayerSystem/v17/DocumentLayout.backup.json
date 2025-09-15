@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86A02995-8CD4-4E6C-AD07-FA542F70D4FF}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86A02995-8CD4-4E6C-AD07-FA542F70D4FF}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\src\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{59AB6B26-6D23-4CCC-BCFB-10392F9A7283}|MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystem.interop\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AB6B26-6D23-4CCC-BCFB-10392F9A7283}|MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj|solutionrelative:multiplayersystem.interop\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,19 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MultiplayerSystem.Interop",
-              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
-              "RelativeDocumentMoniker": "MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
-              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
-              "RelativeToolTip": "MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-15T09:26:40.729Z",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\src\\Source.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\src\\Source.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\src\\Source.cpp",
+              "RelativeToolTip": "MultiplayerSystem\\src\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-15T09:33:39.189Z",
               "EditorCaption": ""
             },
             {
@@ -43,7 +47,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MultiplayerSystem.Interop.csproj",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
+              "RelativeDocumentMoniker": "MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
+              "RelativeToolTip": "MultiplayerSystem.Interop\\MultiplayerSystem.Interop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-15T09:26:40.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem.Interop\\Class1.cs",
               "RelativeDocumentMoniker": "MultiplayerSystem.Interop\\Class1.cs",

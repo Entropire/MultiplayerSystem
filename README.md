@@ -36,9 +36,7 @@ MultiplayerSystem/
 ├── MultiplayerSystem/
 │   ├── include/
 │   └── src/
-├── MultiplayerSystem.Interop/
-│   ├── include/
-│   └── src/
+├── MultiplayerSystem.Interop/ 
 ├── Build/
 ├── .gitignore
 ├── .gitattributes
