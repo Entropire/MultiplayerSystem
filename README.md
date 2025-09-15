@@ -10,6 +10,7 @@ I will be testing the working of the multiplayer system by making a simple multi
 - Visual Studio 2022
 - Git for version control
 - Network Architecture: listed client-server model
+- Protocol: UDP
 
 ## Learning Goals
 - I understand different network architectures and can apply them in my projects.
@@ -23,4 +24,24 @@ I will be testing the working of the multiplayer system by making a simple multi
 Here are my research notes on multiplayer systems and the sources I used:
 
 - [Multiplayer Network Architectures](./Docs/MultiplayerNetworkArchitectures.md)
+- [TCP VS UDP](./Docs/TCP_VS_UDP.md)
 
+## Project Structure
+```
+MultiplayerSystem/
+├── .idea/
+├── .vscode/
+├── Docs/
+│   └── Images/
+├── MultiplayerSystem/
+│   ├── include/
+│   └── src/
+├── MultiplayerSystem.Interop/
+│   ├── include/
+│   └── src/
+├── Build/
+├── .gitignore
+├── .gitattributes
+├── README.md
+└── MultiplayerSystem.sln
+```
