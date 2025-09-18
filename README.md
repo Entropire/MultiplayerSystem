@@ -31,17 +31,6 @@ Follow the ongoing tasks and milestones here: [Trello Board](https://trello.com/
 - I can test and troubleshoot network connections between devices.
 - I can develop basic multiplayer systems using C++.
 
-## Research
-Here are my research notes on multiplayer systems and the sources I used:
-
-- [Multiplayer Network Architectures](./Docs/MultiplayerNetworkArchitectures.md)
-- [TCP VS UDP](./Docs/TCP_VS_UDP.md)
-- [Latency Reduction Techniques](./Docs/LatencyReductionTechniques)
-
-Here some additional sources I used and informational websites about networking:
-- https://multiplayernetworking.com
-- https://gafferongames.com/post/udp_vs_tcp/
-
 ## Project Structure
 ```
 MultiplayerSystem/
