@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplayerSystemTestConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55207f3d768d5778135f3718e60e459c4ca45380")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebed6169655f17cfa5d88fc3f9c0b0ed9676a9dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplayerSystemTestConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplayerSystemTestConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

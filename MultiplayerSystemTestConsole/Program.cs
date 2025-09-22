@@ -1,11 +1,11 @@
-﻿namespace MultiplayerSystemTestConsole
+﻿using System;
+using MultiplayerSystemInterop; // namespace of the C++/CLI wrapper
+
+class Program
 {
-  internal class Program
+  static void Main()
   {
-    static void Main(string[] args)
-    {
-      Console.WriteLine("Hello, World!");
-      
-    }
+    int result = Class1.Add(5, 7);
+    Console.WriteLine($"5 + 7 = {result}");
   }
 }

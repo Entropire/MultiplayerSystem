@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D418E8-2ED9-4203-8558-DA9178FC27A5}|MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystemtestconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D418E8-2ED9-4203-8558-DA9178FC27A5}|MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj|solutionrelative:multiplayersystemtestconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F963AD01-78B8-497B-B1DF-FB82E0C8D2E8}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F963AD01-78B8-497B-B1DF-FB82E0C8D2E8}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\MultiplayerSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B08BC413-A0C5-4E1D-A43F-38828D441675}|MultiplayerSystem\\MultiplayerSystem.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B08BC413-A0C5-4E1D-A43F-38828D441675}|MultiplayerSystem\\MultiplayerSystem.csproj|solutionrelative:multiplayersystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E6696E1-BFD4-469D-BA44-850823008D1B}|MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystemtestconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6696E1-BFD4-469D-BA44-850823008D1B}|MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj|solutionrelative:multiplayersystemtestconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F963AD01-78B8-497B-B1DF-FB82E0C8D2E8}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F963AD01-78B8-497B-B1DF-FB82E0C8D2E8}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\MultiplayerSystem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46871D7-5FD0-4E7E-BF34-ECD47E34636E}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D46871D7-5FD0-4E7E-BF34-ECD47E34636E}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|solutionrelative:MultiplayerSystemInterop\\MultiplayerSystemInterop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46871D7-5FD0-4E7E-BF34-ECD47E34636E}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D46871D7-5FD0-4E7E-BF34-ECD47E34636E}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|solutionrelative:MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,27 +43,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\Program.cs",
-              "RelativeDocumentMoniker": "MultiplayerSystemTestConsole\\Program.cs",
-              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\Program.cs",
-              "RelativeToolTip": "MultiplayerSystemTestConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:13:01.43Z",
+              "Title": "MultiplayerSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\MultiplayerSystem.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp",
+              "RelativeToolTip": "MultiplayerSystem\\MultiplayerSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T09:33:10.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiplayerSystem.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.h",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\MultiplayerSystem.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.h",
+              "RelativeToolTip": "MultiplayerSystem\\MultiplayerSystem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T09:30:08.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiplayerSystemInterop.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp",
+              "RelativeToolTip": "MultiplayerSystemInterop\\MultiplayerSystemInterop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T09:29:25.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\Class1.cs",
-              "RelativeDocumentMoniker": "MultiplayerSystem\\Class1.cs",
-              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\Class1.cs",
-              "RelativeToolTip": "MultiplayerSystem\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\Program.cs",
+              "RelativeDocumentMoniker": "MultiplayerSystemTestConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\Program.cs",
+              "RelativeToolTip": "MultiplayerSystemTestConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T09:12:38.14Z",
+              "WhenOpened": "2025-09-22T09:26:19.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiplayerSystemInterop.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "RelativeDocumentMoniker": "MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "RelativeToolTip": "MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T09:25:53.046Z",
               "EditorCaption": ""
             }
           ]

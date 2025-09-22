@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MultiplayerSystem\MultiplayerSystem.csproj" />
+    <Reference Include="MultiplayerSystemInterop">
+      <HintPath>..\x64\Debug\MultiplayerSystemInterop.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
