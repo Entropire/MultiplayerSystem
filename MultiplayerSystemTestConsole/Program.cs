@@ -1,13 +1,14 @@
 ﻿using MultiplayerSystemTestConsole.Commands;
+using SimpleCommands;
 
 class Program
 {
+  private CommandHandler handler = new CommandHandler();
+
   static void Main() => new Program().Start();
 
   private void Start()
   {
-    CommandHandler.InitializeCommands();
-
     string input = "";
     string[] args = [];
     while (true)
@@ -26,7 +27,15 @@ class Program
 
       input = input.Replace("/", "").ToLower();
       args = input.Split(" ");
-      CommandHandler.executeCommand(args[0], args);
+      handler.Execute(args[0], args.Skip(1).ToArray());
     }
+  }
+
+  private void InitCommands()
+  {
+    handler.Register(new HostCommand());
+    handler.Register(new JoinCommand());
+    handler.Register(new LeaveCommand());
+    handler.Register(new StopCommand());
   }
 }

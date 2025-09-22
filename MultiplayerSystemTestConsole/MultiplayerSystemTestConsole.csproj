@@ -11,6 +11,9 @@
     <Reference Include="MultiplayerSystemInterop">
       <HintPath>..\x64\Debug\MultiplayerSystemInterop.dll</HintPath>
     </Reference>
+    <Reference Include="SimpleCommands">
+      <HintPath>Libs\SimpleCommands.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

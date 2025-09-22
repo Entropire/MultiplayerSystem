@@ -17,3 +17,5 @@ C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSyst
 C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSystemTestConsole\obj\Debug\net8.0\MultiplayerSystemTestConsole.pdb
 C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSystemTestConsole\obj\Debug\net8.0\MultiplayerSystemTestConsole.genruntimeconfig.cache
 C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSystemTestConsole\obj\Debug\net8.0\ref\MultiplayerSystemTestConsole.dll
+C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSystemTestConsole\bin\Debug\net8.0\SimpleCommands.dll
+C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\MultiplayerSystemTestConsole\bin\Debug\net8.0\SimpleCommands.pdb
