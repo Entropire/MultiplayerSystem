@@ -17,25 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{B5499DCC-1
 		Docs\TCP_VS_UDP.md = Docs\TCP_VS_UDP.md
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiplayerSystem", "MultiplayerSystem\MultiplayerSystem.vcxproj", "{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}"
-EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Debug|x64.ActiveCfg = Debug|x64
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Debug|x64.Build.0 = Debug|x64
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Debug|x86.ActiveCfg = Debug|Win32
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Debug|x86.Build.0 = Debug|Win32
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Release|x64.ActiveCfg = Release|x64
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Release|x64.Build.0 = Release|x64
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Release|x86.ActiveCfg = Release|Win32
-		{930B82EA-DBB6-4DBE-A491-F0F440F0FC15}.Release|x86.Build.0 = Release|Win32
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
