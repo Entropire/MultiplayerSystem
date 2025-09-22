@@ -1,3 +1,8 @@
-﻿  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MultiplayerSystemInterop.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
 MultiplayerSystem.lib(MultiplayerSystem.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-  MultiplayerSystemInterop.vcxproj -> C:\Users\Quinten\Documents\Projects\Github\cpp\MultiplayerSystem\x64\Debug\MultiplayerSystemInterop.dll
+  MultiplayerSystemInterop.vcxproj -> C:\Users\Quinten\Documents\Projects\Cpp\MultiplayerSystem\x64\Debug\MultiplayerSystemInterop.dll
