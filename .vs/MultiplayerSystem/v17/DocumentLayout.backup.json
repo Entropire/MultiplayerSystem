@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1AF5439-E454-4982-85FA-4A635AEAB7F7}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1AF5439-E454-4982-85FA-4A635AEAB7F7}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|solutionrelative:multiplayersystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\MathCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\MathCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\MultiplayerSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E383B6CC-E518-4DCF-B3CF-78ECAFE74B1D}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E383B6CC-E518-4DCF-B3CF-78ECAFE74B1D}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|solutionrelative:multiplayersystemconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E383B6CC-E518-4DCF-B3CF-78ECAFE74B1D}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|c:\\users\\quinten\\documents\\projects\\github\\cpp\\multiplayersystem\\multiplayersystemconsole\\multiplayersystemconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E383B6CC-E518-4DCF-B3CF-78ECAFE74B1D}|MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj|solutionrelative:multiplayersystemconsole\\multiplayersystemconsole.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|solutionrelative:MultiplayerSystemInterop\\MultiplayerSystemInterop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|solutionrelative:MultiplayerSystemInterop\\MathCoreWrapper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7498394-605D-47F3-A00B-FBD9ED061014}|MultiplayerSystemInterop\\MultiplayerSystemInterop.vcxproj|solutionrelative:MultiplayerSystemInterop\\MathCoreWrapper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4CE73B5-7678-4A2C-946B-875AB746F0A7}|MultiplayerSystem\\MultiplayerSystem.vcxproj|solutionrelative:MultiplayerSystem\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +62,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\framework.h",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\framework.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\framework.h",
+              "RelativeToolTip": "MultiplayerSystem\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T08:57:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MultiplayerSystemConsole",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj",
+              "RelativeDocumentMoniker": "MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj",
+              "RelativeToolTip": "MultiplayerSystemConsole\\MultiplayerSystemConsole.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T08:52:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MathCoreWrapper.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystemInterop\\MathCoreWrapper.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.cpp",
+              "RelativeToolTip": "MultiplayerSystemInterop\\MathCoreWrapper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T08:48:54.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MathCoreWrapper.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.h",
+              "RelativeDocumentMoniker": "MultiplayerSystemInterop\\MathCoreWrapper.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MathCoreWrapper.h",
+              "RelativeToolTip": "MultiplayerSystemInterop\\MathCoreWrapper.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T08:47:15.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathCore.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.h",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\MathCore.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.h",
+              "RelativeToolTip": "MultiplayerSystem\\MathCore.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T08:46:37.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MathCore.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\MathCore.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MathCore.cpp",
+              "RelativeToolTip": "MultiplayerSystem\\MathCore.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T08:39:04.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemConsole\\Program.cs",
               "RelativeDocumentMoniker": "MultiplayerSystemConsole\\Program.cs",
               "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemConsole\\Program.cs",
               "RelativeToolTip": "MultiplayerSystemConsole\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T18:31:36.819Z",
+              "WhenOpened": "2025-09-22T08:34:08.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultiplayerSystemInterop.h",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "RelativeDocumentMoniker": "MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "RelativeToolTip": "MultiplayerSystemInterop\\MultiplayerSystemInterop.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-22T08:33:06.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MultiplayerSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\MultiplayerSystem.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\MultiplayerSystem.cpp",
+              "RelativeToolTip": "MultiplayerSystem\\MultiplayerSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T08:31:44.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\pch.cpp",
+              "RelativeDocumentMoniker": "MultiplayerSystem\\pch.cpp",
+              "ToolTip": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystem\\pch.cpp",
+              "RelativeToolTip": "MultiplayerSystem\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-22T08:38:49.833Z",
               "EditorCaption": ""
             }
           ]

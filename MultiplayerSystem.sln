@@ -17,7 +17,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{B5499DCC-1
 		Docs\TCP_VS_UDP.md = Docs\TCP_VS_UDP.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerSystem", "MultiplayerSystem\MultiplayerSystem.csproj", "{B08BC413-A0C5-4E1D-A43F-38828D441675}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplayerSystemTestConsole", "MultiplayerSystemTestConsole\MultiplayerSystemTestConsole.csproj", "{97D418E8-2ED9-4203-8558-DA9178FC27A5}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08BC413-A0C5-4E1D-A43F-38828D441675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B08BC413-A0C5-4E1D-A43F-38828D441675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B08BC413-A0C5-4E1D-A43F-38828D441675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B08BC413-A0C5-4E1D-A43F-38828D441675}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D418E8-2ED9-4203-8558-DA9178FC27A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D418E8-2ED9-4203-8558-DA9178FC27A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D418E8-2ED9-4203-8558-DA9178FC27A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D418E8-2ED9-4203-8558-DA9178FC27A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
