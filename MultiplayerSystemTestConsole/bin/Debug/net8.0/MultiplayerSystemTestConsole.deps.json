@@ -8,16 +8,16 @@
     ".NETCoreApp,Version=v8.0": {
       "MultiplayerSystemTestConsole/1.0.0": {
         "dependencies": {
-          "MultiplayerSystemInterop": "1.0.9396.18933"
+          "MultiplayerSystemInterop": "1.0.9396.23502"
         },
         "runtime": {
           "MultiplayerSystemTestConsole.dll": {}
         }
       },
-      "MultiplayerSystemInterop/1.0.9396.18933": {
+      "MultiplayerSystemInterop/1.0.9396.23502": {
         "runtime": {
           "MultiplayerSystemInterop.dll": {
-            "assemblyVersion": "1.0.9396.18933",
+            "assemblyVersion": "1.0.9396.23502",
             "fileVersion": "0.0.0.0"
           }
         }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MultiplayerSystemInterop/1.0.9396.18933": {
+    "MultiplayerSystemInterop/1.0.9396.23502": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

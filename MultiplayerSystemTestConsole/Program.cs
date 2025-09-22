@@ -1,11 +1,32 @@
-﻿using System;
-using MultiplayerSystemInterop; // namespace of the C++/CLI wrapper
+﻿using MultiplayerSystemTestConsole.Commands;
 
 class Program
 {
-  static void Main()
+  static void Main() => new Program().Start();
+
+  private void Start()
   {
-    int result = Class1.Add(5, 7);
-    Console.WriteLine($"5 + 7 = {result}");
+    CommandHandler.InitializeCommands();
+
+    string input = "";
+    string[] args = [];
+    while (true)
+    {
+      input = Console.ReadLine();
+
+      if (input == null)
+      {
+        continue;
+      }
+
+      if (!input.StartsWith("/"))
+      {
+        continue;
+      }
+
+      input = input.Replace("/", "").ToLower();
+      args = input.Split(" ");
+      CommandHandler.executeCommand(args[0], args);
+    }
   }
 }
