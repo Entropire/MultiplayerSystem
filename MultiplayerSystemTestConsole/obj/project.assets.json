@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
+      "projectUniqueName": "C:\\Users\\Quinten\\Documents\\Projects\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
       "projectName": "MultiplayerSystemTestConsole",
-      "projectPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
+      "projectPath": "C:\\Users\\Quinten\\Documents\\Projects\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
       "packagesPath": "C:\\Users\\Quinten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\obj\\",
+      "outputPath": "C:\\Users\\Quinten\\Documents\\Projects\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

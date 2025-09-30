@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj": {}
+    "C:\\Users\\Quinten\\Documents\\Projects\\Cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj": {
+    "C:\\Users\\Quinten\\Documents\\Projects\\Cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Quinten\\Documents\\Projects\\Cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
         "projectName": "MultiplayerSystemTestConsole",
-        "projectPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
+        "projectPath": "C:\\Users\\Quinten\\Documents\\Projects\\Cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\MultiplayerSystemTestConsole.csproj",
         "packagesPath": "C:\\Users\\Quinten\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Quinten\\Documents\\Projects\\Github\\cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\obj\\",
+        "outputPath": "C:\\Users\\Quinten\\Documents\\Projects\\Cpp\\MultiplayerSystem\\MultiplayerSystemTestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,7 +1,8 @@
 #pragma once
 
-class MathCore
-{
-public:
-    static int Add(int a, int b);
-};
+namespace MultiplayerSystem {
+    class MathCore {
+    public:
+        static int Add(int a, int b);
+    };
+}
